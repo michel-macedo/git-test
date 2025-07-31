@@ -1,0 +1,29 @@
+/* Cartão principal */
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Imagem do QR code */
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* Título */
+.card h1 {
+  font-size: 18px;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 12px;
+}
+
+/* Parágrafo */
+.card p {
+  font-size: 14px;
+  color: hsl(220, 15%, 55%);
+}
